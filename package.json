@@ -1,0 +1,27 @@
+{
+  "name": "dawagaadi",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/google-analytics": "^2.4.0",
+    "@nuxtjs/pwa": "^3.3.5",
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.0",
+    "bootstrap-icons": "^1.5.0",
+    "core-js": "^3.9.1",
+    "jquery": "^3.6.0",
+    "nuxt": "^2.15.3",
+    "nuxt-i18n": "^6.27.0",
+    "popper.js": "^1.16.1",
+    "vue-plausible": "^1.1.4"
+  },
+  "devDependencies": {
+    "@nuxtjs/dotenv": "^1.4.1"
+  }
+}
