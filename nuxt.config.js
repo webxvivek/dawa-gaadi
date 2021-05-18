@@ -56,8 +56,12 @@ export default {
     '@nuxtjs/pwa',
     'nuxt-i18n',
     'vue-plausible',
+    ['nuxt-cloudflare-analytics', { 
+      token: '635d137c04194e0cb61f5f43e75f6c11', // Example 1a2b3v4a5er6ac7r8afd
+  }],
 
   ],
+  
   i18n: {
     locales: ['en', 'hi'],
     defaultLocale: 'en',
