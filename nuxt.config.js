@@ -44,9 +44,7 @@ export default {
   dotenv: {
     /* module options */
   },
-  plausible: {
-    domain: 'dawagaadi.com'
-  },
+
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
@@ -55,7 +53,6 @@ export default {
      // https://go.nuxtjs.dev/pwa
     '@nuxtjs/pwa',
     'nuxt-i18n',
-    'vue-plausible',
     ['nuxt-cloudflare-analytics', { 
       token: '635d137c04194e0cb61f5f43e75f6c11', // Example 1a2b3v4a5er6ac7r8afd
   }],
