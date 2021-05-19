@@ -31,13 +31,29 @@
 
 </template>
 
+
 <script>
-export default {
- methods: {
- 
-} 
+  export default {
+    data() {
+      return {
+
+      }
+    },
+    head() {
+      return {
+        title: 'About Us',
+        meta: [
+          {
+            hid: 'description',
+            name: 'description',
+            content: 'Our team of Volunteers at Dawa Gaadi works to take order for medicine in Muzaffarpur and deliver medicines at your doorstep.'
+          }
+        ]
+      }
+    }
   }
-  </script>
+</script>
+ 
 
 <style> 
   .whatsapp-btn{

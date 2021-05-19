@@ -8,11 +8,12 @@ export default {
   target: 'static',
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'DawaGaadi.com | Online Medicine Delivery in Muzaffarpur',
+    titleTemplate: '%s - DawaGaadi.com',
+    title: 'Order Medicine in Muzaffarpur Online Medicine Delivery in Muzaffarpur',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Online Medicine delivery in Muzaffarpur Quick and easy way to order medicine onine in Muzaffarpur with Dawa Gaadi' }
+      { hid: 'description', name: 'description', content: 'Online Medicine delivery in Muzaffarpur Quick and easy way to order medicine onine in Muzaffarpur with Dawa Gaadi and get Medicine delivered at your doorstep.' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
@@ -83,7 +84,7 @@ export default {
           welcome: 'Bienvenue',
           home: 'होम ',
           home_title:'मुजफ्फरपुर में ऑनलाइन दवा आर्डर करें.',
-          home_subtitle:'दवा की पर्ची/ जरुरत की सूची अपलोड कर कर आर्डर करें और तुरंत डिलीवरी पाएं.',
+          home_subtitle:'दवा की पर्ची/ जरुरत की सूची अपलोड कर आर्डर करें और तुरंत डिलीवरी पाएं.',
           h_order_call:'Call के द्वारा आर्डर करें ',
           h_order_whatsapp:'Whatsapp द्वारा आर्डर करें ',
           about:'हमारे बारे में',
