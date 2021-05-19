@@ -5,6 +5,7 @@ export default {
     color: 'blue',
     height: '5px'
   },
+  publicPath: 'public/',
   target: 'static',
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
