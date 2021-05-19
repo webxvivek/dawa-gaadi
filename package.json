@@ -21,6 +21,7 @@
     "popper.js": "^1.16.1"
   },
   "devDependencies": {
-    "@nuxtjs/dotenv": "^1.4.1"
+    "@nuxtjs/dotenv": "^1.4.1",
+    "nuxt-purgecss": "^1.0.0"
   }
 }
