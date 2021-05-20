@@ -5,7 +5,6 @@ export default {
     color: 'blue',
     height: '5px'
   },
-  publicPath: 'public/',
   target: 'static',
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
@@ -83,7 +82,7 @@ export default {
         },
         hi: {
           welcome: 'Bienvenue',
-          home: 'होम ',
+          home: 'होम',
           home_title:'मुजफ्फरपुर में ऑनलाइन दवा आर्डर करें.',
           home_subtitle:'दवा की पर्ची/ जरुरत की सूची अपलोड कर आर्डर करें और तुरंत डिलीवरी पाएं.',
           h_order_call:'Call के द्वारा आर्डर करें ',
@@ -115,4 +114,5 @@ export default {
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
   }
+  
 }
