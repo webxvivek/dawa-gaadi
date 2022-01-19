@@ -43,7 +43,7 @@
         &copy; Copyright <strong><span>Dawagaadi.com</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
-       Powered by <a href="https://www.webx99.com/" target="_blank">Webx99.com</a>
+       Powered by <a href="https://www.webx99.com/" target="_blank">Webx99</a>
       </div>
     </div>
   </footer><!-- End Footer -->
